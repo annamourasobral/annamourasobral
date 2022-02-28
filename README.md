@@ -1,9 +1,9 @@
-- 👋 Hello World, I’m @annamourasobral
-- 👀 I’m interested in become a full-stack dev
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to learning with Seniors dev and join a company that embraces innovation 
-- 📫 You can reach me at: annamourasobral@gmail.com
-- 💭 I'm sharing thoughts about my journey learning programming languages on: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="annamourasobral" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/annamourasobral?trk=profile-badge">Anna Moura Sobral</a></div>
+- 👋 Hello World, I’m <a href= "https://instagram.com/annamourasobral">  @annamourasobral </a>
+- 👀 I’m interested in become a full-stack developer
+- 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript, but I some python as well. 
+- 💞️ I’m looking to learning with Seniors developers and join a company that embraces innovation 
+- 📫 You can reach me at: <a href="mailto:annamourasobral@gmail.com"> annamourasobral@gmail.com </a>
+- 💭 I'm sharing thoughts about my journey learning programming languages on: <a href="https://dk.linkedin.com/in/annamourasobral?trk=profile-badge">Anna Moura Sobral</a>
               
 
 <div align="center">
@@ -12,12 +12,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamourasobral&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-##
+## Frequently used technologies
+ <div style="display: inline_block"><br> 
+   <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="CSS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="Git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+   <img align="center" alt="VScode icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 
- <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 </div>
  
               
