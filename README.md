@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m <a href= "https://instagram.com/annamourasobral">  @annamourasobral </a>
 - 👀 I’m interested in become a full-stack developer
-- 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript, but I some python as well. 
+- 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript, but I know some python as well. 
 - 💞️ I’m looking to learning with Seniors developers and join a company that embraces innovation 
 - 📫 You can reach me at: <a href="mailto:annamourasobral@gmail.com"> annamourasobral@gmail.com </a>
 - 💭 I'm sharing thoughts about my journey learning programming languages on: <a href="https://dk.linkedin.com/in/annamourasobral?trk=profile-badge">Anna Moura Sobral</a>
