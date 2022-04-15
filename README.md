@@ -23,11 +23,14 @@
    <img align="center" alt="Python icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="Git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="VScode icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-
-</div>
+<div>
+<br>
+<br>
+<br> 
  
-## I'm frequently revisiting and applying new concepts to my old repositories, so please check the pinned projects to watch my most advanced projects ;)              
+<div align="center">  
+I'm frequently revisiting and applying new concepts to my old repositories, so please check the pinned projects to watch my most advanced projects 😉  
+</div>
 <!---
 annamourasobral/annamourasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
