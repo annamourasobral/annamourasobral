@@ -27,7 +27,7 @@
 
 </div>
  
-              
+## I'm frequently revisiting and applying new concepts to my old repositories, so please check the pinned projects to watch my most advanced projects ;)              
 <!---
 annamourasobral/annamourasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
