@@ -3,6 +3,7 @@
 - 💞️ I’m looking to learning with Seniors developers and join a company that embraces innovation 
 - 📫 You can reach me at: <a href="mailto:annamourasobral@gmail.com"> annamourasobral@gmail.com </a>
 - 💭 I'm sharing thoughts about my journey learning programming languages on <a href="https://dk.linkedin.com/in/annamourasobral?trk=profile-badge">my LinkedIn</a>
+- 👩🏻‍💻 <a href="https://annamourasobral.com">My portfolio</a> is the most amazing website that you're going to see today, check it now!
               
 
 <div align="center">
