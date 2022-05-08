@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Anna Moura Sobral, a Front-End Developer
+- 👋 Hello World, I’m Anna Moura Sobral, a Software Developer
 - 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript, but I know some python as well. 
 - 💞️ I’m looking to learning with Seniors developers and join a company that embraces innovation 
 - 📫 You can reach me at: <a href="mailto:annamourasobral@gmail.com"> annamourasobral@gmail.com </a>
