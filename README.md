@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Anna Moura Sobral, a Software Developer
+- 👋 Hello World, I’m Anna Moura Sobral, a Software Developer and Computer Sciences student
 - 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript, but I know some python as well. 
 - **💞️ I'm a front-end developer because it perfectly combines 3 areas that are important to me:**
     1. **It's visual but still requires logical thinking**
@@ -7,6 +7,7 @@
 - 📫 You can reach me at: <a href="mailto:annamourasobral@gmail.com"> annamourasobral@gmail.com </a>
 - 💭 I'm sharing thoughts about my journey learning programming languages on <a href="https://dk.linkedin.com/in/annamourasobral?trk=profile-badge">my LinkedIn</a>
 - 👩🏻‍💻 <a href="https://annamourasobral.com">My portfolio</a> is the most amazing website that you're going to see today, check it now!
+- Currently, I'm enroled in [Scrimba](https://scrimba.com)'s course called Frontend Career path, and you can [follow my progress here](https://github.com/annamourasobral/Frontend-Career-Path) 
               
 
 <div align="center">
