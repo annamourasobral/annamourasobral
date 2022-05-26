@@ -15,8 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annamourasobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamourasobral&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align='center'>
-<a height="150em" href="http://www.github.com/annamourasobral"><img src="http://github-readme-streak-stats.herokuapp.com?user=annamourasobral&theme=radical&date_format=j%2Fn%5B%2FY%5D" /></a>
-</div>
+
     
     
 ## Technologies that I've been working with
