@@ -14,7 +14,11 @@
   <a href="https://github.com/annamourasobral">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annamourasobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamourasobral&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
+<div align='center'>
+<a height="150em" href="http://www.github.com/WalterSopraniJr"><img src="http://github-readme-streak-stats.herokuapp.com?user=annamourasobral&theme=radical&date_format=j%2Fn%5B%2FY%5D" /></a>
+</div>
+    
+    
 ## Technologies that I've been working with
  <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br> 
@@ -31,6 +35,7 @@
        <img align="center" alt="VScode icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     </div>
 </div>
+
 <!---
 annamourasobral/annamourasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
