@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Anna Moura Sobral, a Software Developer and Computer Sciences student
+## 👋 Hello World, I’m Anna Moura Sobral, a Software Developer and Computer Sciences student
 - 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript, but I know some python as well. 
 - **💞️ I'm a front-end developer because it perfectly combines 3 areas that are important to me:**
     1. **It's visual but still requires logical thinking**
@@ -11,13 +11,15 @@
               
 
 <div align="center">
-  <a href="https://github.com/annamourasobral">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annamourasobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamourasobral&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=annamourasobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamourasobral&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align='center'>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=annamourasobral&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+</div>    
 
-    
-    
+
+
 ## Technologies that I've been working with
  <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br> 
