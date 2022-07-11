@@ -1,5 +1,5 @@
 ## 👋 Hello World, I’m Anna Moura Sobral,a Software Developer and Computer Sciences student
-- 🌱 I’m currently learning Front End Technologies such as HTML5, CSS3 and Javascript by myself, but I also have Java classes at Descomplica, my university. 
+- 🌱 I’m currently learning Front End Libraries such as Typescript React by myself, but I also have Java classes at Descomplica, my university. 
 - **💞️ I'm a front-end developer because it perfectly combines 3 areas that are important to me:**
     1. **It's visual but still requires logical thinking**
     2. **It's all about solving problems for real people**
