@@ -1,4 +1,4 @@
-### I'm a Frontend Developer and Computer Sciences student.
+### I'm a Frontend Developer, Mentor at Hack Your Future, and Computer Sciences student.
 ### I have the amazing opportunity of showing my work on Walor, developing new features for the platform, but also keeping things working smoothly.
 
  
