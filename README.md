@@ -32,18 +32,6 @@
   <img align="center" alt="Docker icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> 
   <img align="center" alt="Postman icon" height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" >         
 </div>
-</br>
-</br>
-</br>
-</br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annamourasobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamourasobral&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div align='center'>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=annamourasobral&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
-</div>    
-
 
 
 <!---
