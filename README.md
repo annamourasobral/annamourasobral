@@ -32,6 +32,12 @@
   <img align="center" alt="Docker icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> 
   <img align="center" alt="Postman icon" height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" >         
 </div>
+</br>
+</br>
+</br>
+<div align='center'>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=annamourasobral&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+</div>    
 
 
 <!---
