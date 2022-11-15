@@ -1,6 +1,4 @@
-### I'm a Frontend Developer, Mentor at Hack Your Future, and Computer Sciences student.
-### I have the amazing opportunity of showing my work on Walor, developing new features for the platform, but also keeping things working smoothly.
-
+### I'm a Frontend Developer, Mentor at Hack Your Future, and Computer Scientist.
  
 ### 💞️ I'm a front-end developer because it perfectly combines 3 areas that are important to me:
 ### 1- It's visual but still requires logical thinking
@@ -20,7 +18,8 @@
        <img align="center" alt="Figma icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
        <img align="center" alt="Git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
        <img align="center" alt="bash icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-       <img align="center" alt="VScode icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">       
+       <img align="center" alt="VScode icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+       <img align="center" alt="Postman icon" height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" >              
 </div>
 
 ### I'm also familiar with 
@@ -30,9 +29,10 @@
   <img align="center" alt="Node icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="MySQL icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Docker icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> 
-  <img align="center" alt="Postman icon" height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg" >         
+  
 </div>
 
+## ⚠️This portfólio does not necessarily represents my knowledge. Right now I'm dedicated to my work at Walor where my code is private for obvious reasons and I play around with my github on my free time. Feel free to contact me to any further questions: annamourasobral@gmail.com
 
 <!---
 annamourasobral/annamourasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
