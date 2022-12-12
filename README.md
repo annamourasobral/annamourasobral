@@ -32,8 +32,6 @@
   
 </div>
 
-## ⚠️This portfólio does not necessarily represents my knowledge. Right now I'm dedicated to my work at Walor where my code is private for obvious reasons and I play around with my github on my free time. Feel free to contact me to any further questions: annamourasobral@gmail.com
-
 <!---
 annamourasobral/annamourasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
