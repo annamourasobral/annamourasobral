@@ -1,9 +1,9 @@
 Hey, I'm glad you stop by! <br />
 
-My name is Anna, I'm 27 years old, from Rio de Janeiro - Brazil, now based in Madrid - Spain.<br />
+My name is Anna, I'm 29 years old, from Rio de Janeiro - Brazil, now based in Barcelona - Spain.<br />
 I work at [Qatium](https://qatium.com/) as a Product Engineer, working on developing, maintaining, and supporting our Digital Water Management Platform.<br />
 Also, I lived in Copenhagen - Denmark, and there I worked for [Walor](https://walor.com/) as a Full-Stack Developer and contributed to [Hack Your Future Denmark](https://www.hackyourfuture.dk/) as a Mentor, helping the students with programming challenges that they face in the curriculum.<br />
-I'll soon graduate as a Computer Scientist by [Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) a college that allowed me to become a bachelor from anywhere in the world.<br />
+I graduate as a Computer Scientist by [Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) a college that allowed me to become a bachelor from anywhere in the world.<br />
 
 
 💞️ I'm a front-end developer because it perfectly combines 3 areas that are important to me:<br />
